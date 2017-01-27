@@ -6,7 +6,7 @@ This simple package contains a single function that replaces smart quotes and ot
 
 If text is highlighted, changes are only made to the selected portion. Otherwise, the entire document is changed.
 
-Made for Pixelberry Studios content writers. Modeled after [smart-quotes-plus](https://github.com/blakegarretson/smart-quotes-plus).
+Originally for [Pixelberry Studios](http://www.pixelberrystudios.com/) content writers. Modeled after [smart-quotes-plus](https://github.com/blakegarretson/smart-quotes-plus).
 
 Input|Character Name|Unicode|Output
 :-------:|:-------:|:-------:|:------:
@@ -15,3 +15,5 @@ Input|Character Name|Unicode|Output
 `…`|horizontal ellipsis|U2026|`...`
 `–`|en dash|U2013|`-`
 `—`|em dash|U2014|`--`
+
+![Example of package in action](https://raw.githubusercontent.com/lukefg/dumb-quoter/master/screenshots/screenshot.png)
