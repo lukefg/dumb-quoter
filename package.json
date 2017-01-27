@@ -1,17 +1,16 @@
 {
-	"name": "dumb-quoter",
-	"main": "./lib/dumb-quoter",
-	"version": "0.0.0",
-	"description": "Replace smart quotes with dumb ones, plus other formatting simplifications.",
-	"keywords": [
-	],
-	"activationCommands": {
-		"atom-workspace": "dumb-quoter:dumbdown"
-	},
-	"repository": "https://github.com/lukefg/dumb-quoter",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {}
+  "name": "dumb-quoter",
+  "main": "./lib/dumb-quoter",
+  "version": "0.1.0",
+  "description": "Replace smart quotes with dumb ones, plus other formatting simplifications.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "dumb-quoter:dumbdown"
+  },
+  "repository": "https://github.com/lukefg/dumb-quoter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
