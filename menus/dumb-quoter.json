@@ -1,0 +1,26 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Dumb Quoter",
+				"command": "dumb-quoter:dumbdown"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "Dumb Quoter",
+					"submenu": [
+						{
+							"label": "Dumb It Down",
+							"command": "dumb-quoter:dumbdown"
+						}
+					]
+				}
+			]
+		}
+	]
+}
