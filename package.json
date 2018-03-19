@@ -1,13 +1,13 @@
 {
-  "name": "dumb-quoter",
-  "main": "./lib/dumb-quoter",
+  "name": "fix-elseif",
+  "main": "./lib/fix-elseif",
   "version": "0.1.0",
-  "description": "Replace smart quotes with dumb ones, plus other formatting simplifications.",
+  "description": "Unbeautify elseif.",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "dumb-quoter:dumbdown"
+    "atom-workspace": "fix-elseif:fixElseif"
   },
-  "repository": "https://github.com/lukefg/dumb-quoter",
+  "repository": "https://github.com/lukefg/fix-elseif",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
