@@ -2,8 +2,8 @@
 	"context-menu": {
 		"atom-text-editor": [
 			{
-				"label": "Fix Elseif",
-				"command": "fix-elseif:fixElseif"
+				"label": "Dumb Quoter",
+				"command": "dumb-quoter:dumbdown"
 			}
 		]
 	},
@@ -12,11 +12,11 @@
 			"label": "Packages",
 			"submenu": [
 				{
-					"label": "Fix Elseif",
+					"label": "Dumb Quoter",
 					"submenu": [
 						{
-							"label": "Fix Elseif",
-							"command": "fix-elseif:fixElseif"
+							"label": "Dumb It Down",
+							"command": "dumb-quoter:dumbdown"
 						}
 					]
 				}
